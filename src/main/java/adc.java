@@ -5,5 +5,6 @@
 public class adc {
     public static void main(String[] args) {
         System.out.println("sss"+22222);
+        System.out.println("sss"+3333);
     }
 }
